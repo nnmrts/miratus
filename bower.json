@@ -1,0 +1,29 @@
+{
+	"name": "miratus",
+	"description": "a simple javascript utility library",
+	"main": "miratus.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nnmrts/miratus"
+	},
+	"keywords": [
+		"utility",
+		"simple",
+		"javascript"
+	],
+	"license": "Unlicense",
+	"homepage": "https://github.com/nnmrts/miratus#readme",
+
+	"authors": [
+		"Nano Miratus <nanomiratus@gmail.com>"
+	],
+
+	"moduleType": "globals",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	]
+}
